@@ -6,3 +6,5 @@ The Lucas-Kanade optical flow algorithm was implemented using MATLAB to determin
 All six quiverplots and their corresponding window sizes are shown below. 
 
 ![img 1](https://raw.githubusercontent.com/somogysm/OpticalFlow-and-Stitching/master/imgs/1.PNG)
+
+![img 2](https://raw.githubusercontent.com/somogysm/OpticalFlow-and-Stitching/master/imgs/2.PNG)
